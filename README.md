@@ -1,2 +1,2 @@
-# Trex_C19
+# Trex_GaME
 Chrome's Trex Game By Suvidha
